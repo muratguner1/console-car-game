@@ -1,8 +1,9 @@
 # Car game using c (ncurses lib)
 
- -**Explanation: **
-     - This project is an example console game project to learn the CPP language better and improve yourself.
-     - This project was written with the ncusres library.
+
+- **Explanation: **
+  - This project is an example console game project to learn the CPP language better and improve yourself.
+  - This project was written with the ncusres library.
 
 
 ## Build and Run
